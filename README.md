@@ -20,3 +20,5 @@ Push the image to Docker Hub.
 docker push YOUR-USER-NAME/gcc-git
 ```
 Note that the tag name is omitted and docker will use a tag called `latest`.
+
+Source: https://docs.docker.com/get-started/04_sharing_app/
